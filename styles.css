@@ -13,3 +13,13 @@ a { /* change color of links*/
 a:visited { /* change color of visited links */
   color: #34D399;
 }
+p { /* line break distance */
+  line-height: 1.5;
+}
+h1 {
+  /* font-size: 2rem; */
+  /* color: #FFFFFF; */
+  font-weight: bold;
+  line-height: 1;
+	margin-bottom: 20px;
+}
